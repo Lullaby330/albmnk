@@ -1,1 +1,1 @@
-web: npm package.json
+worker: node index.js
