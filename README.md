@@ -1,5 +1,5 @@
 
-# Neko Album Creator
+# Album Creator
 
 [@NekoAlbumBot](https://t.me/NekoAlbumBot) is a telegram bot that helps you create album's from forwarded media.
 
@@ -15,3 +15,7 @@ Project is build using [telegraf.js](https://telegraf.js.org)
 
 
 *Original Repo by [@wjclub](https://github.com/wjclub/telegram-bot-album-creator)*
+
+Deploy On Heroku Echo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
