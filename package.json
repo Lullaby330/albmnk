@@ -2,7 +2,7 @@
   "name": "albummebot",
   "version": "1.0.0",
   "description": "Jam multiple pictures together so they form albums",
-  "main": "albumMeBot.js",
+  "main": "index.js",
   "dependencies": {
     "@replit/database": "^2.0.0",
     "express": "^4.17.1",
